@@ -1,4 +1,4 @@
-public class OperatorMastery {
+public class dataoperators {
     public static void main(String[] args) {
         
         int baseSalary = 30000;
@@ -34,4 +34,5 @@ public class OperatorMastery {
         System.out.println("Remainder of Exp / 2: " + isEvenExp);
         System.out.println("Hiring Decision: " + isHired);
     }
+
 }
